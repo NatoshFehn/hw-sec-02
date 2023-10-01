@@ -33,6 +33,3 @@ Passphrase:
 
 ![Снимок3](https://github.com/NatoshFehn/hw-sec-02/blob/main/Снимок3.png)
 
-### Задание 3
-
-![Снимок4](https://github.com/NatoshFehn/hw-sec-02/blob/main/Снимок4.png)
